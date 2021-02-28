@@ -2,7 +2,7 @@
 
 Autor: Wallisson Rony de M. N.
 
-Este é um repositório que apresenta um CRUD simples para manipulação de produtos. Este projeto tem alguns projetos relacionados, como o repositório com o projeto <a href="https://github.com/wallrony/products-frontend" target="_blank">Frontend WEB</a> e o repositório com o projeto <a href="https://github.com/wallrony/products-frontend" target="_blank">Mobile</a>.
+Este é um repositório que apresenta um CRUD simples para manipulação de produtos. Este projeto tem alguns projetos relacionados, como o repositório com o projeto <a href="https://github.com/wallrony/products-backend" target="_blank">Backend</a> e o repositório com o projeto <a href="https://github.com/wallrony/products-mobile" target="_blank">Frontend WEB</a>.
 
 O projeto tem como principal objetivo apresentar o CRUD de produtos, entidade essa que a seguinte estrutura:
 
