@@ -1,0 +1,32 @@
+name: products
+description: A Flutter project to CRUD products.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  image_picker: ^0.6.7+22
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  provider: 4.3.3
+  http:
+
+flutter:
+
+  uses-material-design: true
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/montserrat.ttf
