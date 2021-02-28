@@ -1,4 +1,4 @@
-# Meus Produtos - API Rest (Backend)
+# Meus Produtos - Flutter Mobile
 
 Autor: Wallisson Rony de M. N.
 
